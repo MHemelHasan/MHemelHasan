@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MHemelHasan
-- 👀 I’m interested in FLutter devlopment
+- 👀 I’m interested in Unity devlopment
 - 🌱 I’m currently Working Blockchain Developments
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Solidity and Blockchain
 - 📫 How to reach me? by mail you can reach me. Or check my Facebook https://www.facebook.com/MHemelHasan/.
 
 <!---
